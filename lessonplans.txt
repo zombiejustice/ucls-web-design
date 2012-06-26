@@ -1,0 +1,78 @@
+Web Design (based on Session 2 2011 curriculum)
+
+Week 1:
+
+Monday:
+    set up:
+        give all students accounts
+        set up webdesign login on all computers
+        install a decent text editor on all computers
+        enable right-clicking on all computers
+    part one:
+        nameplates, class rules, internet safety
+        text editor and server
+        assignment 0: homepage
+            start out by writing a little about why you
+            wanted to take web design, and your favorite
+            movie, musician, or author
+    part two:
+        html, body, paragraphs, headlines
+
+Tuesday:
+    set-up:
+        put link to hex color chooser on homepage
+    part one:
+        review class rules, server, html
+        head, title, link
+        background-color, color, font-family
+        hex color chooser, digital color meter
+    part two:
+        box model, padding, borders, margin, width
+        element styling
+
+Wednesday:
+    part one:
+        review server, head/body distinction, title
+        review element styling, box model
+        images, photobooth, height, display: block;
+        seriously, ten minutes for photobooth, plus ten for styling
+    part two:
+        divs, ids
+        assignment 1: animal page
+            must cite image and text sources
+            three divs with ids, styled differently
+            each div has headline, image,
+            at least one paragraph
+
+Thursday:
+    part one:
+        review divs, ids, image centering, font-family, padding
+        font-weight, font-style
+        work on animal page
+    part two:
+        anchors, hyperlink styling
+        remind to cite images and info
+
+Friday:
+    set-up:
+        have cut-down sohn interview, example interviews
+    part one:
+        review hyperlinks, stylesheets
+        classes, font-size
+        assignment 2: interview project
+            must have questions and answers as two different
+            classes with visually distinct styling
+    part two:
+        text-align for headlines
+        text-decoration for links
+        remind to link from homepage
+
+Week 2: (by this time in 2012, we were a day behind, hence repeats)
+
+Monday: (catch-up)
+    part two:
+        font-weight, font-style, font-size
+        classes
+        interview project
+
+Tuesday: recipe project begin
