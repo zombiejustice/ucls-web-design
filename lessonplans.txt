@@ -69,10 +69,37 @@ Friday:
 
 Week 2: (by this time in 2012, we were a day behind, hence repeats)
 
-Monday: (catch-up)
-    part two:
-        font-weight, font-style, font-size
-        classes
-        interview project
+Monday:
+	part one:
+		lists, list items, styling lists
+		assignment 3: recipe project
+			pick a recipe, find a picture for it
+			put the ingredients in unordered list
+			and directions in ordered list
+			style the page attractively
+			cite the origin of recipe and image!
+	part two:
+		big huge labs color palette generator
+		review digital color meter
+		assignment 3 update:
+			use colors from the picture in the page
 
-Tuesday: recipe project begin
+Tuesday:
+	part one:
+		internal links
+		assignment 4: fairytale project
+			choose one of the fairy tales
+			add an internal link menu
+			style attractively and add pictures
+			cite the origin of the images!
+	part two:
+		review link styling
+
+Wednesday:
+	part one:
+		floating images
+		assignment 4 update:
+			float all images!
+	part two:
+		background images
+		emphasize div background-color
