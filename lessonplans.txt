@@ -69,7 +69,7 @@ Friday:
 
 Week 2: (by this time in 2012, we were a day behind, hence repeats)
 
-Monday:
+Tuesday:
 	part one:
 		lists, list items, styling lists
 		assignment 3: recipe project
@@ -84,7 +84,7 @@ Monday:
 		assignment 3 update:
 			use colors from the picture in the page
 
-Tuesday:
+Wednesday:
 	part one:
 		internal links
 		assignment 4: fairytale project
@@ -95,11 +95,18 @@ Tuesday:
 	part two:
 		review link styling
 
-Wednesday:
+Thursday:
 	part one:
 		floating images
 		assignment 4 update:
 			float all images!
 	part two:
+		clean up for show and tell
+		
+Friday:
+	part one:
+		show and tell
+	part two:
+		fixing websites from critique
 		background images
 		emphasize div background-color
