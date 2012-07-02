@@ -110,3 +110,25 @@ Friday:
 		fixing websites from critique
 		background images
 		emphasize div background-color
+		
+Week 3: May contain day off
+
+Monday:
+	set up:
+		have pre-built div they can copy/paste into their sites
+	part one:
+		external stylesheets on multiple pages
+		multiple external stylesheets on one page
+	part two:
+		review link styling
+		descendant selectors
+		
+Tuesday:
+	set up:
+		have articles for the paper, pre-built column page
+	part one:
+		columns using float
+		assignment final: newspaper website
+			Make a professional-looking website for the Summer Lab newspaper!
+			You can work with a partner.
+	part two: work time
